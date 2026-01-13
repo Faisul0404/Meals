@@ -8,6 +8,7 @@ final theme = ThemeData(
   colorScheme: ColorScheme.fromSeed(
     brightness: Brightness.dark,
     seedColor: const Color.fromARGB(255, 131, 57, 0),
+    primary: const Color.fromARGB(255, 255, 255, 255),
   ),
 );
 
